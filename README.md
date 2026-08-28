@@ -18,4 +18,11 @@
   <img  height="60" alt="aws-academy-graduate-cloud-foundations-training-bad" src="https://github.com/user-attachments/assets/b3c14cae-4485-45c9-916d-f6518764513d" />
 </p>
 
+<br>
+<br>
+<p>
+  [![Describe Azure networking services](https://learn.microsoft.com/en-us/training/achievements/describe-azure-compute-networking-services.svg)](https://learn.microsoft.com/api/achievements/share/en-us/LeanMuzveba-6118/NM3W9Z9F?sharingId=5C230DF1F96581E4)
+
+</p>
+
 </div>
