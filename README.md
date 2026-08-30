@@ -21,7 +21,7 @@
 <br>
 <br>
 <p>
-  [![Describe Azure networking services](https://learn.microsoft.com/en-us/training/achievements/describe-azure-compute-networking-services.svg)](https://learn.microsoft.com/api/achievements/share/en-us/LeanMuzveba-6118/NM3W9Z9F?sharingId=5C230DF1F96581E4)
+
 
 </p>
 
